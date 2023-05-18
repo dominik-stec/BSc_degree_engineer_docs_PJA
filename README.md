@@ -5,8 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -15,6 +13,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -29,14 +28,14 @@
     <img src="images/logo.jpg" alt="Logo" width="540" height="80">
   </a>
 
-  <h2 align="center">SoftDrive_doc</h2>
+  <h2 align="center">Bachelor of Science (BSc) degree documentation</h2>
 
   <p align="center">
     <h3> Engineering project documentation for Polish-Japanese Academy of Information Technology </h3>
-    <br />
+    <!-- <br />
     <a href="https://github.com/dccstcc/SoftDrive_doc"><strong>» go to DOCUMENT »</strong></a>
     <br />
-    <br />
+    <br /> -->
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
@@ -45,50 +44,45 @@
   </p>
 </p>
 
-
-
-
 <!-- ABOUT THE PROJECT -->
-## About The Document
 
-This document contain all phases of construct my own idea for realise engineering project for Polish-Japanese Academy of Information Technology. I constructed embedded system with hardware prototype for motorcycles drivers. This project base on Android mobile application connected with Raspberry Pi IoT board which maintain laser distance measuring sensor. On the smartphone screen we can observe real-time graphics simulation of vehicle ride. On screen during drive the motorcycle we can see actual distace between motorcycle and following car and actual speed of ride. When speed is to high according to keep distance between vehicles the system inform us on the screen that it is impossible to suddenly stop the car with aviod the crash and suggest us safe speed of ride in actual traffic configuration. 
+## Project description
 
-## Built With
+This document contain all phases of construct my own idea for realise engineering project for Polish-Japanese Academy of Information Technology. I constructed embedded system with hardware prototype for motorcycles drivers. This project base on Android mobile application connected with Raspberry Pi IoT board which maintain laser distance measuring sensor. On the smartphone screen we can observe real-time graphics simulation of vehicle ride. On screen during drive the motorcycle we can see actual distace between motorcycle and following car and actual speed of ride. When speed is to high according to keep distance between vehicles the system inform us on the screen that it is impossible to suddenly stop the car with aviod the crash and suggest us safe speed of ride in actual traffic configuration.
+
+## Libraries and frameworks
 
 This project use technology below.
-* [![java][java-shield]][java-url]
-* [![cpp][cpp-shield]][cpp-url]
-* [![python][python-shield]][python-url]
-* [![android][android-shield]][android-url]
-* [![rpi][rpi-shield]][rpi-url]
-* [![linux][linux-shield]][linux-url]
-* [![hardware][hardware-shield]][hardware-url]
 
-
+- [![java][java-shield]][java-url]
+- [![cpp][cpp-shield]][cpp-url]
+- [![python][python-shield]][python-url]
+- [![android][android-shield]][android-url]
+- [![rpi][rpi-shield]][rpi-url]
+- [![linux][linux-shield]][linux-url]
+- [![hardware][hardware-shield]][hardware-url]
 
 <!-- LICENSE -->
+
 ## License
 
-This document has not a license.
-All rights are reserved and it is not Open Source or Free. You cannot modify or redistribute this code without explicit permission from the copyright holder.
+This project has not a license.
+All rights are reserved and it is not Open Source or free. You cannot modify or redistribute this code without explicit permission from the copyright holder, because projects which I realised are private conception from PJATK studies.
 See `LICENSE` for more information.
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
-Dominik Stec - dccstcc@gmail.com
+Dominik Stec - dominikstec@devapp.tools
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-Project URL: 
+Project URL:
 <br />
-`https://github.com/dccstcc/SoftDrive_doc.git`
+`https://github.com/dominik-stec/BSc_degree_engineer_docs.git`
 
-
-
-<!-- ACKNOWLEDGEMENTS 
+<!-- ACKNOWLEDGEMENTS
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -104,10 +98,9 @@ Project URL:
 
 -->
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/dccstcc/SoftDrive_doc.svg?style=for-the-badge
 [contributors-url]: https://github.com/dccstcc/SoftDrive_doc/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/dccstcc/SoftDrive_doc.svg?style=for-the-badge
@@ -121,7 +114,6 @@ Project URL:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/dominik-stec
 [product-screenshot]: images/screenshot.png
-
 [java-shield]: https://img.shields.io/badge/-Java-red
 [java-url]: https://www.java.com/en/
 [cpp-shield]: https://img.shields.io/badge/-C++-blue
@@ -136,4 +128,3 @@ Project URL:
 [linux-url]: https://www.raspbian.org/
 [hardware-shield]: https://img.shields.io/badge/-Hardware-black
 [hardware-url]: https://www.garmin.com/pl-PL/p/557294
-
